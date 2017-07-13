@@ -1,4 +1,5 @@
 FILE: 119775C BS685BWYx08237 8MP.JPG
+TYPE: JPEG
 
 [JPEG - 0xfffffffd] Compression Type = Baseline
 [JPEG - 0x0000] Data Precision = 8 bits
@@ -29,7 +30,7 @@ FILE: 119775C BS685BWYx08237 8MP.JPG
 [Exif SubIFD - 0x9003] Date/Time Original = 2016:06:14 20:25:21
 [Exif SubIFD - 0x9004] Date/Time Digitized = 2016:06:14 20:25:21
 [Exif SubIFD - 0x9101] Components Configuration = YCbCr
-[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 15639776/7990272 bits/pixel
+[Exif SubIFD - 0x9102] Compressed Bits Per Pixel = 488743/249696 bits/pixel
 [Exif SubIFD - 0x9201] Shutter Speed Value = 1 sec
 [Exif SubIFD - 0x9202] Aperture Value = f/2.6
 [Exif SubIFD - 0x9204] Exposure Bias Value = 
